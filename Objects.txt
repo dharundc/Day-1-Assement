@@ -1,0 +1,8 @@
+A JavaScript object has properties associated with it. A property of an object can be explained as a variable that is attached to the object.
+Syntax:
+objectname.propertyname
+Example:
+var myCar = new Object();
+myCar.make = 'Ford';
+myCar.model = 'Mustang';
+myCar.year = 1969;
